@@ -24,6 +24,12 @@ h1 {
     background-color: #992f50;
 }
 
+#actions-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #363e91;
+}
+
 .card {
     width: 400px;
     height: 400px;
